@@ -39,3 +39,21 @@ A convolutional architecture for extracting spatial hierarchies of features from
 - **Output:** Classification / recognition output (task-dependent)
 
 ---
+
+## 📚 References
+
+| # | Title | Link |
+|---|---|---|
+| 1 | Attention Is All You Need (Vaswani et al., 2017) — the original Transformer paper | https://arxiv.org/pdf/1706.03762 |
+| 2 | Fusing Memory and Attention: A Study on LSTM, Transformer and Hybrid Architectures for Symbolic Music Generation (Ghoshal et al., 2026) | https://arxiv.org/html/2603.21282v1 |
+| 3 | ReAct: Synergizing Reasoning and Acting in Language Models (Google Research Blog) | https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/ |
+
+---
+
+## 👥 Contributors
+
+Daksh Tomar
+Arpit Goyal
+Divyansh Gangwar
+
+---
